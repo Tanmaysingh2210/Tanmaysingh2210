@@ -308,7 +308,7 @@ Working on full-stack applications with a focus on scalable backend systems, int
 
 ---
 
-# 📜 Certifications
+<!-- # 📜 Certifications
 
 > *Currently expanding my technical expertise through continuous learning. Professional certifications will be added as they are completed.*
 
@@ -322,9 +322,9 @@ Working on full-stack applications with a focus on scalable backend systems, int
 
 <img src="https://img.shields.io/badge/Learning-Cloud%20Computing-5B5BD6?style=for-the-badge"/>
 
-</p>
+</p> -->
 
----
+<!-- --- -->
 
 # 🎯 Goals for 2026
 
@@ -367,6 +367,7 @@ Working on full-stack applications with a focus on scalable backend systems, int
 
 </div>
 
+<!-- 
 ---
 
 # 🏆 GitHub Trophies
@@ -375,29 +376,8 @@ Working on full-stack applications with a focus on scalable backend systems, int
 
 <img src="https://github-profile-trophy.vercel.app/?username=Tanmaysingh2210&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
-</div>
-
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/7b2ff7/Tanmaysingh2210" width="100%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tanmaysingh2210/Tanmaysingh2210/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **Note:** You'll need a GitHub Action to generate the snake animation. I'll provide the workflow file after the README is complete.
+</div> 
+-->
 
 ---
 
@@ -447,6 +427,16 @@ Open_To:
   - Full Stack Development
   - AI/ML Projects
 ```
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tanmaysingh2210/Tanmaysingh2210/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
