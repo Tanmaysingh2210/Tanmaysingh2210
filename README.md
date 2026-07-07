@@ -126,3 +126,214 @@ Currently, I'm focused on strengthening my expertise in **Full Stack Development
 ---
 
 > *"Building products that solve real problems while continuously learning new technologies."*
+>
+> ---
+
+# 💼 Featured Projects
+
+<details open>
+<summary><h2>🚀 DashX — Developer Analytics Platform</h2></summary>
+
+### 🌐 Live Demo
+https://dashx.aalsicoders.in
+
+### 📦 Repository
+https://github.com/Tanmaysingh2210/DashX
+
+DashX is a modern analytics platform designed for developers to monitor and visualize their coding journey by combining GitHub and LeetCode data into a single dashboard. It helps developers track consistency, coding activity, repository growth, contribution history, and problem-solving progress through an elegant and interactive interface.
+
+### ✨ Highlights
+
+- Unified GitHub & LeetCode dashboard
+- Daily coding streak tracking
+- Interactive contribution heatmaps
+- Repository analytics
+- Language usage insights
+- Clean and responsive UI
+- Modern dashboard architecture
+- Optimized API integration
+
+| Category | Details |
+|-----------|----------|
+| **Tech Stack** | React, Node.js, Express.js, MongoDB |
+| **Architecture** | REST API + Component-Based Frontend |
+| **Performance** | Optimized API calls and dynamic rendering |
+| **Scalability** | Modular architecture for future integrations |
+| **Purpose** | Developer Productivity & Analytics |
+
+### Key Features
+
+- GitHub profile analytics
+- LeetCode statistics
+- Daily activity visualization
+- Combined coding streak
+- Repository insights
+- Heatmap visualization
+- Performance dashboard
+- Clean developer-focused experience
+
+</details>
+
+---
+
+<details>
+<summary><h2>🎮 Parliament Battle — Real-Time Multiplayer Strategy Game</h2></summary>
+
+### 🌐 Live Demo
+https://parliamentbattle.aalsicoders.in
+
+### 📦 Repository
+https://github.com/Nihalchaudhary101120/Parliament
+
+Parliament Battle is a browser-based multiplayer strategy game where players compete in real time using tactical gameplay, bidding mechanics, unique character abilities, and interactive game elements. The application demonstrates full-stack architecture, real-time communication, session management, and complex game logic.
+
+### ✨ Highlights
+
+- Multiplayer game engine
+- Real-time synchronization
+- Strategic gameplay mechanics
+- Interactive game board
+- Session management
+- Dynamic player actions
+- Custom game rules
+- Modern responsive interface
+
+| Category | Details |
+|-----------|----------|
+| **Frontend** | React |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **Communication** | Socket.IO |
+| **Authentication** | Express Session |
+| **Deployment** | Production Ready |
+
+### Core Features
+
+- Multiplayer lobby system
+- Live game synchronization
+- Turn-based strategy
+- Dice mechanics
+- Character abilities
+- Health & shield system
+- Bidding system
+- Dynamic game state management
+
+</details>
+
+---
+
+<details>
+<summary><h2>📊 SAN Beverages Dashboard — Enterprise Inventory & Business Management System</h2></summary>
+
+### 🌐 Live Demo
+https://speed.aalsicoders.in
+
+### 📦 Repository
+https://github.com/Tanmaysingh2210/Speed-SanBeverage_pvt_ltd
+
+SAN Beverages Dashboard is a production-oriented inventory and business management platform developed for managing beverage operations efficiently. The system centralizes inventory tracking, purchases, sales, pricing, reporting, and business analytics while providing intuitive dashboards for data-driven decision making.
+
+### ✨ Highlights
+
+- Enterprise inventory management
+- Purchase tracking
+- Sales monitoring
+- Business analytics
+- Interactive charts
+- Dynamic reporting
+- Stock management
+- Performance insights
+
+| Category | Details |
+|-----------|----------|
+| **Frontend** | React |
+| **Backend** | Express.js |
+| **Database** | MongoDB |
+| **Charts** | Recharts |
+| **Authentication** | Session Based |
+| **Target Users** | Business & Inventory Teams |
+
+### Major Modules
+
+- Inventory Management
+- Purchase Records
+- Sales Dashboard
+- Transaction History
+- Business Reports
+- Product Pricing
+- Stock Analytics
+- User Management
+
+</details>
+
+---
+
+# 💼 Experience
+
+## 👨‍💻 Full Stack Developer
+
+**Personal Projects & Independent Development**
+
+**2024 – Present**
+
+Working on full-stack applications with a focus on scalable backend systems, interactive user interfaces, and real-world software solutions. Continuously exploring modern technologies while building production-ready projects.
+
+### Responsibilities
+
+- Designing scalable web applications
+- Building RESTful APIs
+- Developing responsive React interfaces
+- Managing MongoDB databases
+- Implementing authentication systems
+- Optimizing application performance
+- Solving complex development challenges
+- Maintaining production deployments
+
+### Technologies
+
+`React` `Node.js` `Express.js` `MongoDB` `JavaScript` `Git` `GitHub`
+
+---
+
+# 🏆 Achievements
+
+| Achievement | Details |
+|-------------|----------|
+| 🚀 Production Deployments | Successfully deployed multiple full-stack applications |
+| 💻 Full Stack Projects | Developed complete end-to-end software solutions |
+| 📈 Continuous Learning | Regularly improving through project-based learning and DSA practice |
+| 🌐 Developer Portfolio | Built impactful applications addressing real-world use cases |
+| ⚡ Problem Solving | Actively solving algorithmic problems on LeetCode |
+
+---
+
+# 📜 Certifications
+
+> *Currently expanding my technical expertise through continuous learning. Professional certifications will be added as they are completed.*
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Learning-System%20Design-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-Machine%20Learning-7B2FF7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-Backend%20Engineering-4F46E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-Cloud%20Computing-5B5BD6?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🎯 Goals for 2026
+
+- 🚀 Secure a Software Engineering Internship
+- 🧠 Strengthen Machine Learning expertise
+- 🌍 Contribute to Open Source Projects
+- 📚 Master System Design fundamentals
+- ⚙️ Learn Docker & Kubernetes
+- ☁️ Explore Cloud Technologies
+- 💼 Build impactful developer tools
+- ⭐ Grow as a Product Engineer
+
+---
