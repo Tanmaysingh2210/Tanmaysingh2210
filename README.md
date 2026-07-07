@@ -125,8 +125,6 @@ Currently, I'm focused on strengthening my expertise in **Full Stack Development
 
 ---
 
-> *"Building products that solve real problems while continuously learning new technologies."*
->
 > ---
 
 # 💼 Featured Projects
@@ -337,3 +335,6 @@ Working on full-stack applications with a focus on scalable backend systems, int
 - ⭐ Grow as a Product Engineer
 
 ---
+
+
+> *"Building products that solve real problems while continuously learning new technologies."*
