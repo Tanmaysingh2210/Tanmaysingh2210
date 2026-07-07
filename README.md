@@ -126,6 +126,10 @@ Currently, I'm focused on strengthening my expertise in **Full Stack Development
 ---
 
 
+*"Building products that solve real problems while continuously learning new technologies."*
+
+---
+
 # 💼 Featured Projects
 
 <details open>
@@ -516,4 +520,3 @@ Open_To:
 
 </div>
 
-> *"Building products that solve real problems while continuously learning new technologies."*
