@@ -8,10 +8,6 @@
 
 <br><br>
 
-<a href="mailto:tanmayrajpoot2210@gmail.com">
-<img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/tanmay-singh2210">
 <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -22,6 +18,10 @@
 
 <a href="https://leetcode.com/u/Tanmay2210/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://dashx.aalsicoders.in/u/Tanmaysingh2210">
+<img src="https://img.shields.io/badge/Developer_Profile-DashX-6C63FF?style=for-the-badge"/>
 </a>
 
 <br><br>
@@ -442,11 +442,9 @@ Open_To:
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<a href="mailto:tanmayrajpoot2210@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+📧 **Email:** `tanmayrajpoot2210@gmail.com`
 
 <a href="https://www.linkedin.com/in/tanmay-singh2210">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -460,19 +458,11 @@ Open_To:
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://dashx.aalsicoders.in">
-<img src="https://img.shields.io/badge/DashX-Live-6C63FF?style=for-the-badge"/>
+<a href="https://dashx.aalsicoders.in/u/Tanmaysingh2210">
+<img src="https://img.shields.io/badge/Developer_Profile-DashX-6C63FF?style=for-the-badge"/>
 </a>
 
-<a href="https://parliamentbattle.aalsicoders.in">
-<img src="https://img.shields.io/badge/Parliament_Battle-Live-7B2FF7?style=for-the-badge"/>
-</a>
-
-<a href="https://speed.aalsicoders.in">
-<img src="https://img.shields.io/badge/SAN_Beverages-Live-4F46E5?style=for-the-badge"/>
-</a>
-
-</div>
+</p>
 
 ---
 
