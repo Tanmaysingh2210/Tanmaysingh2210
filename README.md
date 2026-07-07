@@ -125,7 +125,6 @@ Currently, I'm focused on strengthening my expertise in **Full Stack Development
 
 ---
 
-> ---
 
 # 💼 Featured Projects
 
@@ -336,5 +335,185 @@ Working on full-stack applications with a focus on scalable backend systems, int
 
 ---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanmaysingh2210&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaysingh2210&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tanmaysingh2210&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmaysingh2210&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tanmaysingh2210&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/7b2ff7/Tanmaysingh2210" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tanmaysingh2210/Tanmaysingh2210/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Note:** You'll need a GitHub Action to generate the snake animation. I'll provide the workflow file after the README is complete.
+
+---
+
+# 💻 Development Philosophy
+
+<div align="center">
+
+| 💡 Build | 🚀 Improve | 🤝 Collaborate |
+|-----------|------------|---------------|
+| Production Ready Projects | Continuous Learning | Open Source |
+
+</div>
+
+> *"I believe software should solve real-world problems, remain maintainable, and provide an excellent user experience."*
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Current_Status:
+  Education:
+    - B.Tech Computer Science & Engineering
+
+Learning:
+  - Machine Learning
+  - System Design
+  - Data Structures & Algorithms
+  - Docker
+  - Kubernetes
+  - Cloud Computing
+
+Building:
+  - DashX
+  - AI-powered Developer Tools
+  - Enterprise Full Stack Applications
+
+Exploring:
+  - Generative AI
+  - Backend Scalability
+  - DevOps
+  - Open Source
+
+Open_To:
+  - Software Engineering Internship
+  - Open Source Collaboration
+  - Full Stack Development
+  - AI/ML Projects
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:tanmayrajpoot2210@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tanmay-singh2210">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Tanmaysingh2210">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/Tanmay2210/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://dashx.aalsicoders.in">
+<img src="https://img.shields.io/badge/DashX-Live-6C63FF?style=for-the-badge"/>
+</a>
+
+<a href="https://parliamentbattle.aalsicoders.in">
+<img src="https://img.shields.io/badge/Parliament_Battle-Live-7B2FF7?style=for-the-badge"/>
+</a>
+
+<a href="https://speed.aalsicoders.in">
+<img src="https://img.shields.io/badge/SAN_Beverages-Live-4F46E5?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 📌 Fun Facts
+
+<div align="center">
+
+| 💻 Favorite Language | ⚙️ Preferred Stack | 🎯 Current Goal |
+|----------------------|-------------------|----------------|
+| C++ | MERN Stack | Software Engineering Internship |
+
+| 🧠 Interests | 🚀 Passion | 🌍 Dream |
+|--------------|------------|----------|
+| AI/ML | Product Development | Build impactful software used by millions |
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"Code is more than syntax—it's about solving meaningful problems, building reliable systems, and creating experiences that make a difference."**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider starring my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6a11cb,50:7b2ff7,100:2575fc"/>
+
+</div>
 
 > *"Building products that solve real problems while continuously learning new technologies."*
